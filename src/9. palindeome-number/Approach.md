@@ -39,6 +39,12 @@ Instead of converting the number to a string, this solution:
 
 ---
 
+## Complexity
+- Time Complexity: O(log n)
+- Space Complexity: O(1)
+
+---
+
 ## Algorithm Steps
 
 1. If number is negative → return false
