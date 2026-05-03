@@ -1,0 +1,15 @@
+# Java compiled files
+*.class
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Optional: build folders
+bin/
+out/
