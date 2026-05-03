@@ -1,3 +1,5 @@
+## LeetCode Solution
+```java
 class Solution {
     public boolean isPalindrome(int x) {
         // Edge Case
@@ -12,3 +14,4 @@ class Solution {
         return x == reversedHalf || x == reversedHalf/10;
     }
 }
+```
