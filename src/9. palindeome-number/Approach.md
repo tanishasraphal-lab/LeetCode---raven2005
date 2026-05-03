@@ -40,8 +40,8 @@ Instead of converting the number to a string, this solution:
 ---
 
 ## Complexity
-- Time Complexity: O(log n)
-- Space Complexity: O(1)
+- **Time Complexity:** O(log n)
+- **Space Complexity:** O(1)
 
 ---
 
