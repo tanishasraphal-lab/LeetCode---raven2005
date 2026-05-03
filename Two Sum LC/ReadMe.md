@@ -1,18 +1,5 @@
 # Two Sum (Java)
 
-## Approach
-Used one-pass HashMap to achieve O(n) time complexity.
-
-## Input
-Array of integers and target value.
-
-## Output
-Indices of two numbers whose sum equals target.
-
-## Complexity
-- Time: O(n)
-- Space: O(n)
-  
 ## Question
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
@@ -32,7 +19,20 @@ Input: nums = [3,3], target = 6
 Output: [0,1]
  
 ## Constraints:
-i) 2 <= nums.length <= 104
-ii) -109 <= nums[i] <= 109
-iii) -109 <= target <= 109
-iv) Only one valid answer exists.
+- 2 <= nums.length <= 104
+- -109 <= nums[i] <= 109
+- -109 <= target <= 109
+- Only one valid answer exists.
+
+## Approach
+Used one-pass HashMap to achieve O(n) time complexity.
+
+## Input
+Array of integers and target value.
+
+## Output
+Indices of two numbers whose sum equals target.
+
+## Complexity
+- Time: O(n)
+- Space: O(n)
