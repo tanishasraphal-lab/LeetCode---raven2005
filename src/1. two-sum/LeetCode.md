@@ -1,4 +1,5 @@
 ## LeetCode Solution
+```java
 class Solution { 
     // TC = O(n) -> scalable & SC = O(n)
     public int[] twoSum(int[] nums, int target) {
@@ -15,3 +16,4 @@ class Solution {
         //better than return null -> Avoid NullPointerException
     }
 }
+```
