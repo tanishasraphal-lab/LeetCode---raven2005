@@ -1,5 +1,5 @@
 import java.util.*;
-public class Solution {
+public class zigzag {
     public static String convert(String s, int numRows){
         if(numRows==0 || s.length()<=numRows) return s;
         StringBuilder[] rows = new StringBuilder[numRows];

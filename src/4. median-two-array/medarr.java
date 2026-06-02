@@ -1,5 +1,5 @@
 import java.util.*;
-public class Solution {
+public class medarr {
     public static double findMedian(int[] nums1, int[] nums2){
         int m = nums1.length;
         int n = nums2.length;

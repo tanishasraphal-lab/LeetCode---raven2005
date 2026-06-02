@@ -1,5 +1,5 @@
 import java.util.*;
-public class Solution {
+public class Reverse {
     static int reverse(int x){
         int rev = 0;
         while(x!=0){

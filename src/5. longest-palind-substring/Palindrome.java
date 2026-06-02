@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Solution {
+public class Palindrome {
     public static String longestPalindrome(String s){
         if(s == null || s.length() < 1) return "";
         int start = 0, end = 0;
