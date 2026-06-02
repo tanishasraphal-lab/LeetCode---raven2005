@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Hanoi {
 
     static void towerOfHanoi(int n, char src, char aux, char dest) {
         if (n == 1) {

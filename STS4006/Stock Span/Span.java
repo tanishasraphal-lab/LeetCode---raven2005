@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class Span {
 
     public static int[] calculateSpan(int[] price) {
         int n = price.length;
